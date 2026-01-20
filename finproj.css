@@ -1,0 +1,43 @@
+ ul {
+  			list-style-type: none;
+  			margin: 0;
+ 			padding: 0;
+  			width: 200px;
+  			background-color: lightblue;
+  			display: inline-block;
+		}
+		
+        li a {
+ 			 display: block;
+  			 color: white;
+  			 padding: 8px 16px;
+  			 text-decoration: none;
+		}
+
+
+		li a:hover {
+  				   background-color: skyblue;
+  				   color: white;
+}
+
+ol{
+	background-color: lightpink;
+  	display: inline-block;
+}
+
+body{
+		background-color: lavender;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+  		background-size: cover;
+		}
+
+h1{
+	text-align: center;
+	background-color: cadetblue;
+}
+
+p{
+	text-align: center;
+	background-color: lavenderblush;
+}
