@@ -23,6 +23,7 @@
 ol{
 	background-color: lightpink;
   	display: inline-block;
+  	text-align: center;
 }
 
 body{
